@@ -11,6 +11,7 @@ This project is a **Machine Learning based Song Recommendation System** that sug
 * Data preprocessing and analysis
 * Implemented using Python and Jupyter Notebook
 * Beginner-friendly AI/ML project
+* used koogle for datasets
 
 ## Technologies Used
 
